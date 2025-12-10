@@ -1,9 +1,5 @@
 # EcoTrack
 
-**Demo Video:** []()
-
-**MVP Link:** []()
-
 ## Table of Contents
 
   - [Overview](#overview)
@@ -12,7 +8,6 @@
   - [Features](#features)
   - [Built With](#built-with)
   - [Challenges](#challenges)
-  - [Future Plans](#future-plans)
 
 ## Overview
 
@@ -109,18 +104,6 @@ Building EcoTrack presented several unique challenges that required innovative s
 
 - **Personalization:**
   - Creating AI recommendations that adapt to individual circumstances without being intrusive or overwhelming.
-
-# Future Plans
-
-We have exciting plans to expand and enhance EcoTrack's capabilities to make sustainable living even more accessible and impactful:
-
-- **Mobile Application:** Develop iOS and Android apps for on-the-go carbon tracking and real-time sustainability tips.
-
-- **Multi-language Support:** Add support for major languages to make the platform globally accessible.
-
-- **Rewards Marketplace:** Implement a system where users can earn discounts on eco-friendly products from partner brands.
-
-- **NGO Partnerships:** Collaborate with environmental organizations to track real-world impact of user actions.
 
 
 >### Due to some Git configuration errors, my teammate's contributions are not showing properly.
