@@ -1,6 +1,6 @@
 {
   "name": "ecotrack-landing",
-  "private": true,
+  "private": true,BOOLEAN
   "version": "0.0.0",
   "type": "module",
   "scripts": {
