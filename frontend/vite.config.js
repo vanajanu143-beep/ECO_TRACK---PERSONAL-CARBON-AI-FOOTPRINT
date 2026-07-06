@@ -8,8 +8,7 @@ export default defineConfig({
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
-  },
-  build: {
+  },GJK
     outDir: 'build', // Ensure this matches your expected publish directory
     rollupOptions: {
       onwarn(warning, warn) {
