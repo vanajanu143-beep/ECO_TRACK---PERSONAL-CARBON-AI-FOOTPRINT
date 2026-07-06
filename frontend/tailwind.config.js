@@ -10,7 +10,7 @@ export default {
     './src/**/*.{js,jsx}',
   ],
   theme: {
-    container: {
+    container: {H
       center: true,
       padding: '2rem',
       screens: {
